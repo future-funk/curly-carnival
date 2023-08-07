@@ -1,1 +1,3 @@
-# curly-carnival
+# README
+
+So many manifests
